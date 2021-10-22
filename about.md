@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+My name is Urvi Mitra and here in this blog, I try to explore the seemingly obvious stuff in life, the intricate connections therein and everything else in between.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[analogousstuff@gmail.com](mailto:analogousstuff@gmail.com)
