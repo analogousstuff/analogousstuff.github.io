@@ -1,3 +1,8 @@
+---
+layout: post
+title: Delegation
+---
+
 It is said that the difference between a manager and an independent producer is the ability to delegate. 
 We often come across people (many a times we are those people) who want to wield power and control in every task, however trivial. If you think about it, how much work does that really accomplish? Worrying about washing the dishes, cooking, cleaning, etc while also being responsible for the nuclear codes of a country's nuclear arsenal is inefficient and leaves scope for grave, irreversible mistakes, in this case, deadly sins, so to speak.
 It is impossible and ineffective for one individual to micro manage everything. Thus the ability to delegate and be effective interdependent managers and independent producers, in other cases, becomes crucial.
